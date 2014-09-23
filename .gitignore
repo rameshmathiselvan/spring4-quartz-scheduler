@@ -1,0 +1,7 @@
+*target/
+*.prefs
+*.component
+.classpath
+.project
+.settings/org.eclipse.wst.common.project.facet.core.xml
+src/main/webapp/META-INF/MANIFEST.MF
